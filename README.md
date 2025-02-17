@@ -2,7 +2,7 @@
 
 I'm a student of Animation Cinema and Digital Arts, with a greater focus on the area of ​​Digital Games and programming. I'm always interested in learning things to improve my skills.
 
-- 📫 Reach me at my [LinkedIn](www.linkedin.com/in/pinkywillgcr) or by Email: guilhermemg.2000@gmail.com
+- 📫 Reach me at my [LinkedIn](https://www.linkedin.com/in/pinkywillgcr/) or by Email: guilhermemg.2000@gmail.com
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gpinkywill&show_icons=true&count_private=true&hide_border=true&title_color=af13e0&icon_color=af13e0&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme Campos's github stats" /> 
